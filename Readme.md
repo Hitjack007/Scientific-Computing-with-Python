@@ -19,10 +19,10 @@ This folder includes:
 | File Name               | Description                                |
 |------------------------|--------------------------------------------|
 | `arithmetic_formatter.py` | Function to format arithmetic problems     |
-| `budget_tracker.py`     | Calculates time durations and conversions  |
-| `polygon_area_calculator.py`          | A simple budget tracking application       |
-| `probability_calculator.py`        | Calculates area of polygons using Python   |
-| `time_calculator.py` | Basic scientific calculator functions     |
+| `budget_tracker.py`     | A simple budget tracking application |
+| `polygon_area_calculator.py`          | Calculates area of polygons using Python       |
+| `probability_calculator.py`        | Calculates chance  |
+| `time_calculator.py` | Calculates time durations and conversions      |
 | `Scientific Computing with Python.pdf` | PDF copy of the FreeCodeCamp certification |
 
 
